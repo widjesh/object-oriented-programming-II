@@ -1,0 +1,37 @@
+{
+  "managers": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "salary": 5000,
+      "paidTimeOffRequest": [
+        {
+          "startDate": "2021-01-01",
+          "endDate": "2021-01-02",
+          "status": "approved"
+        }
+      ],
+      "employees": [
+        {
+          "firstName": "Aryan",
+          "lastName": "Doe",
+          "salary": 4500,
+          "address": "Leysweg #35",
+          "paidTimeOffRequest": [
+            {
+              "startDate": "2021-01-01",
+              "endDate": "2021-01-02",
+              "status": "approved"
+            }
+          ],
+          "laidOffDate": "2021-01-01"
+        }
+      ]
+    },
+    {
+      "firstName": "Will",
+      "lastName": "Doe",
+      "salary": 6000
+    }
+  ]
+}
